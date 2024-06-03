@@ -4,7 +4,7 @@
 
 ## Build sample
 
-To build you must have the SDL2 development files installed, the simple Makefile included builds the sample application with the ```make``` command (it's source is found in src/simple_app.c). The sample program opens and shows one of two OBJ files with one of two BMP textures applied. 
+To build you must have the SDL2 development files installed, the simple Makefile included builds the sample application with the ```make``` command (the source code of the sample application can be found in src/simple_app.c). The sample program opens and shows one of two OBJ files with one of two BMP textures applied. 
 
 ![](./res/sample_image.png)
 

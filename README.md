@@ -1,4 +1,4 @@
-#SoftGfx
+# SoftGfx
 
 **SoftGfx** is a very simple 3D software rendering library, it's similar to Classic OpenGL and supports 4x4 matrix manipulation, OBJ mesh drawing, Gouraud/Phong lighting up to 8 lights, texture mapping with one texture, bilinear filtering, texture perspective correction, mesh materials, Z-buffer, BMP texture loading.
 
